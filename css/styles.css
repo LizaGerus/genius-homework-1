@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+}
+
+.link {
+    color: #011C44;
+}
+
+.link:hover {
+    color: #2B7FFF;
+}
+
+.hero-title {
+    color: #2B7FFF;
+}
